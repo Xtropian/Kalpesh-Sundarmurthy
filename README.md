@@ -1,4 +1,4 @@
-## Hi there, this is Kalpesh Sundarmurthy here :) 👋
+## Hi there, this is Kalpesh here :) 👋
 
 - 🔭 I’m currently working on small Python projects and experimenting with Django web apps.
 - 🌱 I’m currently learning Python, backend development, and automation.
